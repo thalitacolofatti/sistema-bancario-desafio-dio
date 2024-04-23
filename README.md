@@ -21,3 +21,11 @@ A função Cadastrar usuário-cliente com nome, data de nascimento, CPF(cadastra
 A função Criar conta deve armazenar em lista: agência (numero fixo 0001), número da conta (sequencial começando em 1) e usuário, que pode ter mais de uma conta, mas uma conta só pode ser de um usuário.
 
 Mantive a visualização no extrato de quantos saques restam e alterei a função filtrar usuários mostrada no curso.
+
+## Desafio v3: Modelar o sistema bancário em POO (arquivo desafiopythonPOO.py)
+
+Foi atualizada a implementação do sistema bancário, para armazenar os dados de clientes e contas bancárias em objetos ao invés de dicionários.
+
+O código deveria seguir o modelo de classes UML abaixo:
+
+![image](files://D:\DIO\Desafios de projeto\sistema_bancario_UML)
