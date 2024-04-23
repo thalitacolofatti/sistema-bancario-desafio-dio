@@ -28,4 +28,4 @@ Foi atualizada a implementação do sistema bancário, para armazenar os dados d
 
 O código deveria seguir o modelo de classes UML abaixo:
 
-![image](files://D:\DIO\Desafios de projeto\sistema_bancario_UML)
+![image](files://D:\DIO\Desafios de projeto\sistema_bancario_UML.png)
